@@ -83,6 +83,7 @@
       "dateTime": {
         "min": "2000-01-01",
         "max": "2020-12-31"
+		}
       },
     "isRegular": {
       "boolean": {}
@@ -96,5 +97,5 @@
 	"photo": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     }
-  },
+  }
 }

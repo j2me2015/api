@@ -97,5 +97,25 @@
 	"photo": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     }
+  },
+  "User": {
+	"_": {
+      "items": 5
+    },
+	"name": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
+    },
+    "email": {
+      "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
+    },
+    "gender": {
+      "string": ["female", "male", "others"]
+    },
+	"photo": {
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    }
   }
 }

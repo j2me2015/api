@@ -151,7 +151,7 @@
 		"photo": "https://picsum.photos/seed/66517/1920/270"
 	}
   ],
-  "users":[
+  "users": [
 	{
 		"id": 1,
 		"name": "iste quo in vero",
@@ -181,7 +181,7 @@
 		"name": "ad perspiciatis ut",
 		"email": "vuzgfc@rosxc.lg",
 		"photo": "https://picsum.photos/seed/43429/1920/270"
-	},	
+	}	
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },

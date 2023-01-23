@@ -151,38 +151,58 @@
 		"photo": "https://picsum.photos/seed/66517/1920/270"
 	}
   ],
-  "users": [
+  "users":[
 	{
+		"about": "A quidem odio corrupti est eos.",
+		"dob": "2015-10-28T13:47:02Z",
+		"email": "ivgjafclf@uihdi.se",
+		"gender": "female",
 		"id": 1,
+		"isRegular": true,
 		"name": "iste quo in vero",
-		"email": "quzywv@rpskj.kt",
-		"photo": "https://picsum.photos/seed/39408/1920/270"
+		"photo": "https://picsum.photos/seed/09438/1920/270"
 	},
-	{		
+	{
+		"about": "Repellendus non totam exercitationem, consectetur temporibus quidem beatae vel.",
+		"dob": "2019-01-07T21:09:58Z",
+		"email": "nmuenibf@gwyav.xj",
+		"gender": "female",
 		"id": 2,
+		"isRegular": false,
 		"name": "magnam a",
-		"email": "ddemhwcs@uzwhz.fj",
-		"photo": "https://picsum.photos/seed/93148/1920/270"
+		"photo": "https://picsum.photos/seed/08003/1920/270"
 	},
 	{
+		"about": "Aperiam aut quod ad commodi, facere odit consectetur provident.",
+		"dob": "2015-12-04T06:42:58Z",
+		"email": "shnfwg@spuzc.eh",
+		"gender": "female",
 		"id": 3,
+		"isRegular": true,
 		"name": "pariatur ea",
-		"email": "rfgwdlgj@xifpa.vn",
-		"photo": "https://picsum.photos/seed/86206/1920/270"
+		"photo": "https://picsum.photos/seed/33814/1920/270"
 	},
 	{
+		"about": "Eius facilis saepe, voluptatem laborum mollitia facilis eos unde eum.",
+		"dob": "2019-11-15T12:56:41Z",
+		"email": "hcdks@mjyuf.gf",
+		"gender": "others",
 		"id": 4,
+		"isRegular": false,
 		"name": "eaque dicta",
-		"email": "jcdpx@rxmrg.yc",
-		"photo": "https://picsum.photos/seed/43578/1920/270"
+		"photo": "https://picsum.photos/seed/70805/1920/270"
 	},
 	{
+		"about": "Fugiat sit itaque, esse a doloribus pariatur consequuntur soluta, a quidem aut ipsa a error.",
+		"dob": "2020-07-12T18:35:39Z",
+		"email": "ztkixw@pqhgi.ow",
+		"gender": "others",
 		"id": 5,
+		"isRegular": true,
 		"name": "ad perspiciatis ut",
-		"email": "vuzgfc@rosxc.lg",
-		"photo": "https://picsum.photos/seed/43429/1920/270"
-	}	
-  ],
+		"photo": "https://picsum.photos/seed/78674/1920/270"
+	}
+],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },

@@ -151,6 +151,38 @@
 		"photo": "https://picsum.photos/seed/66517/1920/270"
 	}
   ],
+  "user":[
+	{
+		"id": 1,
+		"name": "iste quo in vero",
+		"email": "quzywv@rpskj.kt",
+		"photo": "https://picsum.photos/seed/39408/1920/270"
+	},
+	{		
+		"id": 2,
+		"name": "magnam a",
+		"email": "ddemhwcs@uzwhz.fj",
+		"photo": "https://picsum.photos/seed/93148/1920/270"
+	},
+	{
+		"id": 3,
+		"name": "pariatur ea",
+		"email": "rfgwdlgj@xifpa.vn",
+		"photo": "https://picsum.photos/seed/86206/1920/270"
+	},
+	{
+		"id": 4,
+		"name": "eaque dicta",
+		"email": "jcdpx@rxmrg.yc",
+		"photo": "https://picsum.photos/seed/43578/1920/270"
+	},
+	{
+		"id": 5,
+		"name": "ad perspiciatis ut",
+		"email": "vuzgfc@rosxc.lg",
+		"photo": "https://picsum.photos/seed/43429/1920/270"
+	},	
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
